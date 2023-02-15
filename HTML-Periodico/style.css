@@ -1,0 +1,119 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+
+    background-image: url("https://img.freepik.com/fotos-premium/fondo-textura-grunge-diseno-retro-abstracto-plantilla-papel-antiguo_213524-92.jpg?w=2000");
+    background-size: cover; 
+
+}  
+
+header {
+
+    position: relative;
+    height: 100px;
+
+}
+
+.title-box1 {
+    
+    position:absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 100px;
+        
+}
+
+.title-box3 {
+    
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    width: 150px;
+    height: 100px;
+    
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 80px;
+
+}
+
+.title-box2 {
+    
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+
+    
+}
+
+
+.section {
+
+    position: relative;
+    width: 100%;
+    height: 1000px;
+
+
+}
+
+.box1 {
+    
+
+    position:absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    width: 33%;
+    height: 100%;
+    padding-left: 10%;
+
+}
+
+.box2 {
+    
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 34%;
+    height: 100%;
+    padding-left: 30px;
+
+}
+
+.box3 {
+    
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    width: 33%;
+    height: 100%;
+    padding-right: 10%;
+
+}
+
+.section .box3 .text {
+
+    position: absolute;
+    right: 0;
+    left: 15%;
+    top: 71%;
+    
+}
